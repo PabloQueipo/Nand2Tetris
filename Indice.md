@@ -7,5 +7,5 @@ Creamos nuestro primer procesador
 - Or
 - Mux
 - Dmux
-- 
--
+- Xor
+- Mux16
