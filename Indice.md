@@ -13,4 +13,4 @@ Creamos nuestro primer procesador
 - Dmux https://github.com/PabloQueipo/Nand2Tetris/blob/master/Dmux
 - Xor https://github.com/PabloQueipo/Nand2Tetris/blob/master/Xor
 - Mux16 https://github.com/PabloQueipo/Nand2Tetris/blob/master/Mux16
--Mux4way16 https://github.com/PabloQueipo/Nand2Tetris/blob/master/Mux4way16
+- Mux4way16 https://github.com/PabloQueipo/Nand2Tetris/blob/master/Mux4way16
